@@ -1,1 +1,15 @@
-# Dashboard-firebase
+# Project name
+Tasks-API
+
+# Project description
+A site for a control panel that can add ,control tasks and connacted with firebase
+
+# To Run project:
+
+```
+1- open VS Code
+2- npm install
+3- npm start
+
+```
+
